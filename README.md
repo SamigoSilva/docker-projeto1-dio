@@ -1,19 +1,19 @@
-## Descrição
-Neste projeto o expert utilizou o Docker Compose para executar uma aplicação HTML em um Container Apache. Você poderá ir além e fazer alterações mais robustas ao seu projeto, estilizando sua página e utilizando seus conhecimentos em (HTML, CSS e JS). Você também pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de Programação.
+## DescriÃ§Ã£o
+Neste projeto o expert utilizou o Docker Compose para executar uma aplicaÃ§Ã£o HTML em um Container Apache. VocÃª poderÃ¡ ir alÃ©m e fazer alteraÃ§Ãµes mais robustas ao seu projeto, estilizando sua pÃ¡gina e utilizando seus conhecimentos em (HTML, CSS e JS). VocÃª tambÃ©m pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de ProgramaÃ§Ã£o.
 
 
 ### PASSO A PASSO:
 
-Criar um arquivo YML com as definições de um servidor Apache (httpd);
+Criar um arquivo YML com as definiÃ§Ãµes de um servidor Apache (httpd);
 
-Especificar no arquivo YML o local onde os arquivos da aplicação estarão. A aplicação pode ser um simples Hello World. Será que você consegue executar uma aplicação web completa?
+Especificar no arquivo YML o local onde os arquivos da aplicaÃ§Ã£o estarÃ£o. A aplicaÃ§Ã£o pode ser um simples Hello World. SerÃ¡ que vocÃª consegue executar uma aplicaÃ§Ã£o web completa?
 
-Subir o arquivo YML e a aplicação para um repositório no GitHub.
+Subir o arquivo YML e a aplicaÃ§Ã£o para um repositÃ³rio no GitHub.
  
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pelo expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+Agora Ã© a sua vez de ser o protagonista! Implemente o desafio sugerido pelo expert e suba seu projeto para um repositÃ³rio prÃ³prio, com isso, vocÃª aumentarÃ¡ ainda mais seu portfÃ³lio de projetos no GitHub!
 
 
-### Entre no diretório
+### Entre no diretÃ³rio
 cd docker-projeto1-dio
 
 ### Para executar
@@ -22,9 +22,12 @@ docker-compose up -d
 ### Caso queira destruir o container
 docker-compose down
 
-### Pré-requisitos:
+### PrÃ©-requisitos:
 
-Conhecimento Básico em Docker(Docker Compose);
-Conhecimento Básico em Apache;
-Conhecimento Básico em HTML;
-Computador com SO de sua preferência(Windows, Linux, Mac OS);
+Conhecimento BÃ¡sico em Docker(Docker Compose);
+
+Conhecimento BÃ¡sico em Apache;
+
+Conhecimento BÃ¡sico em HTML;
+
+Computador com SO de sua preferÃªncia(Windows, Linux, Mac OS);
